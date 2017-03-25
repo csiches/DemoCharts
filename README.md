@@ -1,4 +1,4 @@
-# Angular2
+<!--# Angular2
 
 The sources for this package are in (<https://github.com/vimalavinisha/angular2-google-chart>) repo. Please file issues and pull requests against this repo.
 
@@ -212,4 +212,4 @@ export class AppComponent {
 
 ```
 <img src="../app/assets/images/google-charts-output.png">
-```
+```-->

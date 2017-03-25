@@ -1,12 +1,11 @@
 
 class GaugeControl 
 {
-    private GaugeData: GaugeControlData[];
+    private _gaugedata: GaugeControlData[];
 
-    public FillChart()
+    public FillChart(data: GaugeControlData[])
     {
-        
-
+        this._gaugedata = data;
     }
     
 
